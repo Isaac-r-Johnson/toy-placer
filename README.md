@@ -16,3 +16,6 @@ The "move" command move the toy one unit in the direction it's facing.
 The "right" and "left" commands turn the toy either 90 degress right, or 90 dgrees left.
 
 And finally, the "report" command reports the toy's current position and dirction.
+
+How to use:
+Download "toy.py" and run in terminal "python toy.py". Make sure your terminal is in the same directory as the downloaded file and you have python installed on your computer.
